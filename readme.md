@@ -1,4 +1,4 @@
-_MaterialApp Flutter_
+#MaterialApp Flutter
 
 Cette application permet de créer une application avec des StatefullWidget 
 Permet aussi de s'initier au  MaterialApp le widget d'une application material design, Scaffold 
